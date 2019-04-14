@@ -1,0 +1,7 @@
+/build
+/build_*
+/bin
+/temp
+drspeed.bin
+.DS_Store
+/.vscode
